@@ -1,4 +1,4 @@
-0x02. Shell, I/O Redirections and filters
+##0x02. Shell, I/O Redirections and filters
 
 0-hello_world : a script that prints “Hello, World”, followed by a new line to the standard output.
 
@@ -39,4 +39,3 @@
 18-letteronly : Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 
 19-AZ : Replace all characters A and c from input to Z and e respectively.
-
