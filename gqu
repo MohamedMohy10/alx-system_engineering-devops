@@ -1,4 +1,5 @@
 #!/bin/bash
+# A script to automate the git uploading process
 git add *
 git commit -m "upload"
 git push
